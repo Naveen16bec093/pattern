@@ -1,10 +1,10 @@
 #include<iostream>
 
-using namespace std;
+using namespace std;//Namespace for using cin,cout..etc.
 
 int main(){
 
-int i,num,a,b,temp;
+int i,num,a,b,temp;//Variable Declaration
 
 cout<<"Enter the Number:";
 cin>>num;
