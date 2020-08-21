@@ -62,7 +62,7 @@ for(int x=1;x<num;x++){              //Iterating for the number of lines
 }
 
 int main(){
-	
+//this is the main function	
 int num;
 cout<<"Enter the Number:";
 cin>>num;
